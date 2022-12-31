@@ -1,0 +1,50 @@
+<rant>
+
+so the homework is to make SQL and mongo queries
+
+I see why its not done in sqldeveloper, but when choosing a language. why python?? mongo uses BSON. Binary javaScript Object Notation. BSON is a binary representation of JSON. fucking JSON. use js. it has javascript in both acronyms ffs.
+
+
+but anyway its python but its not even python. Its shitty ipynb files. whyyyyy. just give some some source code like my embass. its not that hard.
+
+but anyway i install this shitty juPYter software for these ipynb files and I download the packages on pip to python3 and they run and work in python3 on this computer, so logically it should work since this shitty juPYter says "PYTHON 3" at the top.
+
+so its using python 3 right? the version of python that these packages are designed for, have been installed with AND run FINE in the python3 environment on my laptop. but it cant find them. They simply do not exist according to juPYter.
+
+even changing python to be aliased as python3 as opposed to python2 still doesnt work.
+
+
+so fuck it ill create my own python file and run the code myself and just paste from/to this shitty juPYter notebook myself. that should be fine right?
+
+
+well please tell me.  WHY. when I copy something. does it seem all fine until I try to paste it into the terminal. and it just. doesnt.
+
+so I have to PHYSICALLY click right click paste to get this shitty python code into vim because, for some reason, its acting like the clipboard contains an image.
+
+It definately doenst JUST contain text.
+
+
+why
+
+
+its a fucking notebook application
+
+for fucking python
+
+and it somehow NOT text??
+
+
+thats litturally all i need. I just need some text I dont want these shitty peices of software that dont work and then tell me that the text is in fact, not text.
+
+
+FUCK OFF
+
+
+</rant>
+
+
+no not the end
+
+even opening the .ipynb shitty crap in vim and trying to copy the TEXT doesnt work because of all the fucking \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ because obviously we cant get actual src we just get "import zzz" with the fucking "" causing everything to be escaped with a bunch of annoying \ everywhere.
+
+ok now </rant>
